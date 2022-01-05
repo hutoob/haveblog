@@ -18,3 +18,5 @@ haveblog:
 #    token有效时长，单位为秒
     expire: 604800
     header: Authorization
+server:
+  port: 8081
